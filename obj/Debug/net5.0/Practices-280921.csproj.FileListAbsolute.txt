@@ -1,0 +1,16 @@
+D:\RUPP-Year4\OOAD\Practices-280921\obj\Debug\net5.0\Practices-280921.csproj.AssemblyReference.cache
+D:\RUPP-Year4\OOAD\Practices-280921\obj\Debug\net5.0\Practices-280921.GeneratedMSBuildEditorConfig.editorconfig
+D:\RUPP-Year4\OOAD\Practices-280921\obj\Debug\net5.0\Practices-280921.AssemblyInfoInputs.cache
+D:\RUPP-Year4\OOAD\Practices-280921\obj\Debug\net5.0\Practices-280921.AssemblyInfo.cs
+D:\RUPP-Year4\OOAD\Practices-280921\obj\Debug\net5.0\Practices-280921.csproj.CoreCompileInputs.cache
+D:\RUPP-Year4\OOAD\Practices-280921\bin\Debug\net5.0\Practices-280921.exe
+D:\RUPP-Year4\OOAD\Practices-280921\bin\Debug\net5.0\Practices-280921.deps.json
+D:\RUPP-Year4\OOAD\Practices-280921\bin\Debug\net5.0\Practices-280921.runtimeconfig.json
+D:\RUPP-Year4\OOAD\Practices-280921\bin\Debug\net5.0\Practices-280921.runtimeconfig.dev.json
+D:\RUPP-Year4\OOAD\Practices-280921\bin\Debug\net5.0\Practices-280921.dll
+D:\RUPP-Year4\OOAD\Practices-280921\bin\Debug\net5.0\ref\Practices-280921.dll
+D:\RUPP-Year4\OOAD\Practices-280921\bin\Debug\net5.0\Practices-280921.pdb
+D:\RUPP-Year4\OOAD\Practices-280921\obj\Debug\net5.0\Practices-280921.dll
+D:\RUPP-Year4\OOAD\Practices-280921\obj\Debug\net5.0\ref\Practices-280921.dll
+D:\RUPP-Year4\OOAD\Practices-280921\obj\Debug\net5.0\Practices-280921.pdb
+D:\RUPP-Year4\OOAD\Practices-280921\obj\Debug\net5.0\Practices-280921.genruntimeconfig.cache
